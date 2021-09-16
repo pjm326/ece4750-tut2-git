@@ -8,5 +8,5 @@
 language: bash
 
 script:
-    - grep melon fruit.txt
+    - grep watermelon fruit.txt
 
